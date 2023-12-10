@@ -53,7 +53,7 @@ The `PathFinderPainter` class is responsible for rendering the grid, nodes, and 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sahildhargave/path_finder/blob/path_finder/LICENCE) file for details.
 
 ```
 
